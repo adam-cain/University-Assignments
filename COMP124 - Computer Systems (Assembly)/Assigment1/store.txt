@@ -1,0 +1,14 @@
+    print:
+        push eax
+        call printf
+        pop eax
+        ret
+
+    input:
+        lea eax, num
+        push eax
+        lea eax, fmt
+        push eax
+        call scanf
+        add esp, 8
+        ret

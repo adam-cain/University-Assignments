@@ -1,0 +1,17 @@
+C:\Users\03ada\Documents\Github Repo\Uni\COMP282 - Advanced C\A2\bin\Debug\net6.0-windows\A2.exe
+C:\Users\03ada\Documents\Github Repo\Uni\COMP282 - Advanced C\A2\bin\Debug\net6.0-windows\A2.deps.json
+C:\Users\03ada\Documents\Github Repo\Uni\COMP282 - Advanced C\A2\bin\Debug\net6.0-windows\A2.runtimeconfig.json
+C:\Users\03ada\Documents\Github Repo\Uni\COMP282 - Advanced C\A2\bin\Debug\net6.0-windows\A2.dll
+C:\Users\03ada\Documents\Github Repo\Uni\COMP282 - Advanced C\A2\bin\Debug\net6.0-windows\A2.pdb
+C:\Users\03ada\Documents\Github Repo\Uni\COMP282 - Advanced C\A2\obj\Debug\net6.0-windows\A2.csproj.AssemblyReference.cache
+C:\Users\03ada\Documents\Github Repo\Uni\COMP282 - Advanced C\A2\obj\Debug\net6.0-windows\A2.DrawLines.resources
+C:\Users\03ada\Documents\Github Repo\Uni\COMP282 - Advanced C\A2\obj\Debug\net6.0-windows\A2.csproj.GenerateResource.cache
+C:\Users\03ada\Documents\Github Repo\Uni\COMP282 - Advanced C\A2\obj\Debug\net6.0-windows\A2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\03ada\Documents\Github Repo\Uni\COMP282 - Advanced C\A2\obj\Debug\net6.0-windows\A2.AssemblyInfoInputs.cache
+C:\Users\03ada\Documents\Github Repo\Uni\COMP282 - Advanced C\A2\obj\Debug\net6.0-windows\A2.AssemblyInfo.cs
+C:\Users\03ada\Documents\Github Repo\Uni\COMP282 - Advanced C\A2\obj\Debug\net6.0-windows\A2.csproj.CoreCompileInputs.cache
+C:\Users\03ada\Documents\Github Repo\Uni\COMP282 - Advanced C\A2\obj\Debug\net6.0-windows\A2.dll
+C:\Users\03ada\Documents\Github Repo\Uni\COMP282 - Advanced C\A2\obj\Debug\net6.0-windows\refint\A2.dll
+C:\Users\03ada\Documents\Github Repo\Uni\COMP282 - Advanced C\A2\obj\Debug\net6.0-windows\A2.pdb
+C:\Users\03ada\Documents\Github Repo\Uni\COMP282 - Advanced C\A2\obj\Debug\net6.0-windows\A2.genruntimeconfig.cache
+C:\Users\03ada\Documents\Github Repo\Uni\COMP282 - Advanced C\A2\obj\Debug\net6.0-windows\ref\A2.dll

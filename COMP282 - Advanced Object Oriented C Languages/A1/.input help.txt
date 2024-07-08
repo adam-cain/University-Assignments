@@ -1,0 +1,41 @@
+set tape length: -1
+
+menu 1
+create dense
+-1 -1
+
+menu 3
+add states:
+0 0 1 1 ->
+0 1 0 0 <-
+1 0 2 1 ->
+2 0 0 0 <-
+
+menu 5
+5 steps
+
+menu 6
+expected output
+#
+The current state is 0.
+The current position is -1.
+The content of the tape is 000.
+The Turing machine has states: <0 0 1 1 ->> <0 1 0 0 <-> <1 0 2 1 ->> <2 0 0 0 <->
+#
+
+menu 5
+-1 steps
+infintie steps:
+In step 6, the position is -1, but that is outside the tape.
+
+menu 6
+expected output
+#
+The current state is 0.
+The current position is -1.
+The content of the tape is 000.
+The Turing machine has states: <0 0 1 1 ->> <0 1 0 0 <-> <1 0 2 1 ->> <2 0 0 0 <->
+#
+
+
+

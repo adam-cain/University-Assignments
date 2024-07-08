@@ -1,0 +1,18 @@
+﻿  Week4.cpp
+D:\UNI\COMP124 - Computer Systems\Week4\Week4.cpp(10,5): error C4235: nonstandard extension used: '__asm' keyword not supported on this architecture
+D:\UNI\COMP124 - Computer Systems\Week4\Week4.cpp(12,9): error C2065: 'mov': undeclared identifier
+D:\UNI\COMP124 - Computer Systems\Week4\Week4.cpp(12,13): error C2146: syntax error: missing ';' before identifier 'eax'
+D:\UNI\COMP124 - Computer Systems\Week4\Week4.cpp(12,13): error C2065: 'eax': undeclared identifier
+D:\UNI\COMP124 - Computer Systems\Week4\Week4.cpp(13,9): error C2146: syntax error: missing ';' before identifier 'add'
+D:\UNI\COMP124 - Computer Systems\Week4\Week4.cpp(13,9): error C2065: 'add': undeclared identifier
+D:\UNI\COMP124 - Computer Systems\Week4\Week4.cpp(13,13): error C2146: syntax error: missing ';' before identifier 'eax'
+D:\UNI\COMP124 - Computer Systems\Week4\Week4.cpp(13,13): error C2065: 'eax': undeclared identifier
+D:\UNI\COMP124 - Computer Systems\Week4\Week4.cpp(14,9): error C2146: syntax error: missing ';' before identifier 'sub'
+D:\UNI\COMP124 - Computer Systems\Week4\Week4.cpp(14,9): error C2065: 'sub': undeclared identifier
+D:\UNI\COMP124 - Computer Systems\Week4\Week4.cpp(14,13): error C2146: syntax error: missing ';' before identifier 'eax'
+D:\UNI\COMP124 - Computer Systems\Week4\Week4.cpp(14,13): error C2065: 'eax': undeclared identifier
+D:\UNI\COMP124 - Computer Systems\Week4\Week4.cpp(15,9): error C2146: syntax error: missing ';' before identifier 'mov'
+D:\UNI\COMP124 - Computer Systems\Week4\Week4.cpp(15,9): error C2065: 'mov': undeclared identifier
+D:\UNI\COMP124 - Computer Systems\Week4\Week4.cpp(15,13): error C2146: syntax error: missing ';' before identifier 'num'
+D:\UNI\COMP124 - Computer Systems\Week4\Week4.cpp(15,18): error C2065: 'eax': undeclared identifier
+D:\UNI\COMP124 - Computer Systems\Week4\Week4.cpp(17,5): error C2143: syntax error: missing ';' before '}'
